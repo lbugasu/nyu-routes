@@ -15,11 +15,12 @@ I intend for the application to be just one page - and in essense - a static Pro
 
 **1. Design**
 The design was two fold (a) how it would look on desktop browser and (b) how it would look on a mobile browser.
+
 **_Web app_**
-[Web App](wireframes/Homepage.png)
+! [Web App](wireframes/Homepage.png)
 
 **_Mobile site_**
-[Mobile site](wireframes/mobileSite/homepage.png)
+! [Mobile site](wireframes/mobileSite/homepage.png)
 
 **2. The Data**
 Since all the routes are contained in spreadsheets and updated rarely within the school year, all the route information will be loaded into the application and updated whenever the routes change.
