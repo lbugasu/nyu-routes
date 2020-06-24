@@ -17,7 +17,7 @@ I intend for the application to be just one page - and in essense - a static Pro
 The design was two fold (a) how it would look on desktop browser and (b) how it would look on a mobile browser.
 
 /Web app
-![Web App](wireframes/homepage.png)
+![Web App](wireframes/desktopApp.png)
 
 /Mobile site
 ![Mobile site](wireframes/mobileSite/homepage.png)
